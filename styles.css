@@ -33,9 +33,13 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    text-aling: center;
+    text-align: center;
 color:red;
 }
 
-
+body > ol, body > ul {
+  border: 1px solid grey;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
