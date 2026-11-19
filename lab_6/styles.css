@@ -1,0 +1,70 @@
+body {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 14px;
+  line-height: 1.25;
+  color: #777;
+}
+
+ul ul {
+  font-style: italic;
+  font-weight: bold;
+}
+
+h1,
+h2 {
+  font-family: "Cormorant Infant", serif;
+  letter-spacing: 0.5px;
+  color: black;
+  text-transform: capitalize;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+.double-line {
+  line-height: 2;
+}
+
+.mail-box {
+  width: 150px;
+  background-color: #e3fff6;
+  border: 5px solid #c2e4c2;
+  padding: 5px 20px;
+  box-sizing: border-box;
+}
+
+.mail-box a {
+  overflow-wrap: break-word;
+  display: block;
+}
+
+p {
+  text-align: justify;
+}
+
+.our-adv {
+  background-image: url(https://picsum.photos/seed/picsum/200/300);
+  padding-top: 30px;
+  padding-bottom: 60px;
+  color: white;
+  font-size: 16px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+h2 {
+  margin-top: 60px;
+  margin-bottom: 0;
+}
+
+.ruler {
+  width: 150px;
+  background-color: lime;
+  text-align: center;
+}
